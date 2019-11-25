@@ -1,4 +1,4 @@
-# flixbus_calc
+# calc
 
 > A Vue.js project
 
