@@ -17,8 +17,7 @@
             <div class="keyboard__row">
                 <div class="to_right">
                     <div class="keyboard_button_wrap">
-                        <button @click=""
-                                class="keyboard__button button_font_m button_size_s button_disabled">
+                        <button class="keyboard__button button_font_m button_size_s button_disabled">
                             <span>√</span></button>
                     </div>
                     <div class="keyboard_button_wrap">
